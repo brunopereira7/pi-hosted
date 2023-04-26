@@ -50,7 +50,7 @@
 			"name": "UPLOAD_LOCATION"
 		}
 	],
-	"logo": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/immich.png",
+	"logo": "https://raw.githubusercontent.com/brunopereira7/pi-hosted/master/images/immich.png",
 	"name": "Immich",
 	"officialDoc": "https://immich.app/docs/overview/introduction",
 	"piHostedDoc": "photoprism.md",
@@ -58,7 +58,7 @@
 	"repository": {
 		"stackfile_arm64": "stack/immich.yml",
 		"stackfile_amd64": "stack/immich.yml",
-		"url": "https://github.com/pi-hosted/pi-hosted"
+		"url": "https://github.com/brunopereira7/pi-hosted"
 	},
 	"title": "Immich",
 	"type": 3,
