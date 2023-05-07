@@ -6253,7 +6253,7 @@
 			"categories": [
 				"Photos"
 			],
-			"description": "Immich - High performance self-hosted photo and video backup solution.",
+			"description": "Immich - Test- High performance self-hosted photo and video backup solution.",
 			"env": [
 				{
 					"default": "postgres",
@@ -6307,8 +6307,8 @@
 			"piHostedDoc": "photoprism.md",
 			"platform": "linux",
 			"repository": {
-				"stackfile": "stack/immich.yml",
-				"url": "https://github.com/brunopereira7/pi-hosted"
+				"stackfile": "stack/photoprism.yml",
+				"url": "https://github.com/pi-hosted/pi-hosted"
 			},
 			"title": "Immich",
 			"type": 3,
