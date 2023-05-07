@@ -6307,8 +6307,7 @@
 			"piHostedDoc": "photoprism.md",
 			"platform": "linux",
 			"repository": {
-				"stackfile_arm64": "stack/immich.yml",
-				"stackfile_amd64": "stack/immich.yml",
+				"stackfile": "stack/immich.yml",
 				"url": "https://github.com/brunopereira7/pi-hosted"
 			},
 			"title": "Immich",
